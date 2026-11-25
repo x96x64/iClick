@@ -1,0 +1,5 @@
+# Build output
+/iclick
+
+# macOS
+.DS_Store
